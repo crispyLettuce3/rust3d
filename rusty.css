@@ -1,9 +1,9 @@
 @keyframes h {
-  0%   {font-color:red; left:0px; top:0px;}
-  25%  {font-color:firebrick; left:5px; top:0px;}
-  50%  {font-color:crimson; left:5px; top:5px;}
-  75%  {font-color:coral; left:0px; top:5px;}
-  100% {font-color:orangered; left:0px; top:0px;}
+  0%   {color:red; left:0px; top:0px;}
+  25%  {color:firebrick; left:5px; top:0px;}
+  50%  {color:crimson; left:5px; top:5px;}
+  75%  {color:coral; left:0px; top:5px;}
+  100% {color:orangered; left:0px; top:0px;}
 }
 
 body {
