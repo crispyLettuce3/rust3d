@@ -9,9 +9,11 @@
 body {
   background-color: black; 
 }
-#h {
+p {
   width: 200px;
   height: 200px;
+}
+#h {
   position: relative;
   animation-name: h;
   animation-duration: 20s;
