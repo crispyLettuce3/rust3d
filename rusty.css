@@ -10,8 +10,7 @@ body {
   background-color: black; 
 }
 p {
-  width: 200px;
-  height: 200px;
+  font-size: 200px;
 }
 #h {
   position: relative;
