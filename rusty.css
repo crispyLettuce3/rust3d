@@ -16,9 +16,11 @@
 
 body {
   background-color: black; 
-  color: white;
   font-size: 20px;
   padding-left: 1%; 
+}
+p {
+	color: white;
 }
 h1 {
   font-family: serif;
