@@ -5,6 +5,13 @@
   75%  {color:coral;}
   100% {color:orangered;}
 }
+@keyframes hr {
+  0%   {background-color:red;}
+  25%  {background-color:firebrick;}
+  50%  {background-color:crimson;}
+  75%  {background-color:coral;}
+  100% {background-color:orangered;}
+}
 @keyframes move {
 	0%	{left:0px; top:0px;}
 	25%	{left:10px; top:0px;}
@@ -21,6 +28,7 @@ body {
 }
 p {
 	color:white;
+	margin-left:2%;
 }
 h1 {
   font-family: "Nimbus Roman";
@@ -42,6 +50,9 @@ h2 {
 hr {
 	margin: 0;
 	padding: 0;
+	border:none;
+	animation:hr 20s infinite linear;
+	height:2px;
 }
 #h {
 	position: relative;
