@@ -17,18 +17,23 @@
 body {
   background-color: black; 
   font-size: 20px;
-  padding-left: 1%; 
+  padding-left: 2%; 
 }
 p {
 	color:white;
 }
 h1 {
-  font-family: serif;
-  line-height: 70%;
+  font-family: 'Nimbus Roman';
+  line-height: 80%;
   font-size: 200px;
-  padding-top: 3%;
+  padding-top: 4%;
+  padding-bottom: 0%;
   margin:0;
-  position:relative;
+
+}
+hr {
+	margin: 0;
+	padding: 0;
 }
 #h {
 	position: relative;
