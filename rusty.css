@@ -52,6 +52,7 @@ h1 {
 }
 
 hr {
+	margin-top: 1%;
 	position: relative;
 	animation: h 20s linear infinite;
 }
