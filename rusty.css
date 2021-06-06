@@ -16,10 +16,14 @@
 
 body {
   background-color: black; 
+  color: white;
+  font-size: 20px;
+  padding-left: 10px; 
 }
 h1 {
+  line-height: 120px;
   font-size: 200px;
-  padding:0;
+  padding-top: 80px;
   margin:0;
   position:relative;
 }
@@ -46,4 +50,8 @@ h1 {
 	animation: h 1.5s infinite, move 6s infinite linear -2s;
 }
 
+hr {
+	position: relative;
+	animation: h 20s linear infinite;
+}
 
