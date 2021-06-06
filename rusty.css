@@ -25,5 +25,25 @@ h1 {
 }
 #h {
 	position: relative;
-	animation: h 1.5s infinite, move 6s infinite;
+	animation: h 1.5s infinite, move 6s infinite linear;
 }
+#e {
+	position: relative;
+	animation: h 1.5s infinite, move 6s infinite linear -0.5s;
+}
+
+#l1 {
+	position: relative;
+	animation: h 1.5s infinite, move 6s infinite linear -1s;
+}
+#l2 {
+	position: relative;
+	animation: h 1.5s infinite, move 6s infinite linear -1.5s;
+}
+
+#o {
+	position: relative;
+	animation: h 1.5s infinite, move 6s infinite linear -2s;
+}
+
+
