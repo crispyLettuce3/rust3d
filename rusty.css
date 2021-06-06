@@ -56,3 +56,9 @@ hr {
 	animation: h 20s linear infinite;
 }
 
+#links {
+	text-align: center;
+}
+a {
+	animation: h 20s linear infinite;
+}
