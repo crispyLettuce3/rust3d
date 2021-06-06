@@ -1,19 +1,29 @@
 @keyframes h {
-  0%   {color:red; left:0px; top:0px;}
-  25%  {color:firebrick; left:5px; top:0px;}
-  50%  {color:crimson; left:5px; top:5px;}
-  75%  {color:coral; left:0px; top:5px;}
-  100% {color:orangered; left:0px; top:0px;}
+  0%   {color:red;}
+  25%  {color:firebrick;}
+  50%  {color:crimson;}
+  75%  {color:coral;}
+  100% {color:orangered;}
 }
+@keyframes move {
+	0%	{left:0px; top:0px;}
+	25%	{left:10px; top:0px;}
+	50%	{left:10px; top:10px;}
+	75%	{left:0px; top:10px;}
+	100%{left:0px; top:0px;}
+}
+
 
 body {
   background-color: black; 
 }
-p {
+h1 {
   font-size: 200px;
+  padding:0;
+  margin:0;
+  position:relative;
 }
 #h {
-  position: relative;
-  animation-name: h;
-  animation-duration: 20s;
+	position: relative;
+	animation: h 1.5s infinite, move 6s infinite;
 }
