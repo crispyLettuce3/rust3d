@@ -23,7 +23,8 @@ p {
 	color:white;
 }
 h1 {
-  font-family: 'Nimbus Roman';
+  font-family: "Nimbus Roman";
+  font-family: serif;
   line-height: 80%;
   font-size: 200px;
   padding-top: 4%;
