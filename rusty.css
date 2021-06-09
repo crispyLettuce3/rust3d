@@ -12,6 +12,13 @@
   75%  {background-color:coral;}
   100% {background-color:orangered;}
 }
+@keyframes hb {
+  0%   {border-color:red;}
+  25%  {border-color:firebrick;}
+  50%  {border-color:crimson;}
+  75%  {border-color:coral;}
+  100% {border-color:orangered;}
+}
 @keyframes move {
 	0%	{left:0px; top:0px;}
 	25%	{left:10px; top:0px;}
