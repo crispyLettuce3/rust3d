@@ -5,6 +5,13 @@
   75%  {color:coral;}
   100% {color:orangered;}
 }
+@keyframes hw {
+  0%   {color:white;}
+  25%  {color:#d5d4d4;}
+  50%  {color:lightgray;}
+  75%  {color:#a1b3c5;}
+  100% {color:white;}
+}
 @keyframes hr {
   0%   {background-color:red;}
   25%  {background-color:firebrick;}
