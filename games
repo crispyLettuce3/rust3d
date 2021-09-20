@@ -17,6 +17,7 @@
   <a href="./rpgs?game=flow"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">.flow</h2></a>
   <a href="./rpgs?game=yumenikki"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Yume Nikki</h2></a>
   <a href="./rpgs?game=yume2kki"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Yume 2kki</h2></a>
+  <p style="color:lightgray;size:6;">sorry, this ones pretty broken right now</p>
 	
     <div style="position:fixed; left:30%; width:40%; height:11rem; background-color:black; border-style:solid solid none solid; border-width: 2px; padding-bottom:2%; bottom:0px; animation: hb 20s linear infinite;">
     		<p id="links"> <a href="./links">links</a> | <a href="https://discord.gg/THtc8wdr3P">a discord</a> | <a href="./radio">radio</a> | <a href="./games">games</a></p>
