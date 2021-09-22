@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="utf-8">
+	    <title>rust website</title>
+	    <link rel="shortcut icon" href="./drawing.svg">
+	    <link rel="stylesheet" href="normalize.css">
+	    <link rel="stylesheet" href="rusty.css">
+  </head>
+  
+  <body>  
+      <script>
+        var context = new AudioContext()
+        var o = context.createOscillator()
+        o.type = "sine"
+        o.connect(context.destination)
+        o.start()
+      </script>
+  </body>
+</html>
