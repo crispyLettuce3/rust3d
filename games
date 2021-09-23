@@ -14,10 +14,16 @@
 	</div>
 	
 	<hr style="margin-top:0.5%; border:none; height:2px; animation:hr 20s infinite linear;">
+	  <p>here are some browser versions of good games so that my friends will stop complaining about how hard they are to get working</p>
+	  <p>i did not make these but i dont think this is illegal because this is personal use and theyre free and rehosted all over the place anyways</p>
+	  <p>they are all in japanese, but that does not really matter</p>
   <a href="./rpgs?game=flow"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">.flow</h2></a>
+  <a href="http://lolrust.site/game/dotflow/" style="size:6;">official link</a>
   <a href="./rpgs?game=yumenikki"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Yume Nikki</h2></a>
+  <a href="https://store.steampowered.com/app/650700/Yume_Nikki/" style="size:6;">Yume Nikki on steam</a>
   <a href="./rpgs?game=yume2kki"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Yume 2kki</h2></a>
-  <p style="color:lightgray;size:6;">sorry, this ones pretty broken right now</p>
+  <a href="https://yume2kki.fandom.com/wiki/Yume_2kki_Wiki" style="size:6;">english wiki</a>
+  <p style="color:lightgray;size:6;">all background music is broken on this one for some reason. will fix soon</p>
 	
     <div style="position:fixed; left:30%; width:40%; height:11rem; background-color:black; border-style:solid solid none solid; border-width: 2px; padding-bottom:2%; bottom:0px; animation: hb 20s linear infinite;">
     		<p id="links"> <a href="./links">links</a> | <a href="https://discord.gg/THtc8wdr3P">a discord</a> | <a href="./radio">radio</a> | <a href="./games">games</a></p>
