@@ -16,11 +16,11 @@
 	// these two event handlers act on the IDBDatabase object,
 	// when the database is opened successfully, or not
 	DBOpenRequest.onerror = function(event) {
-  		note.innerHTML += '<li>Error loading database.</li>';
+  		console.log("Database initialization failed.");
 	};
 
 	DBOpenRequest.onsuccess = function(event) {
-  		note.innerHTML += '<li>Database initialised.</li>';
+  		console.log("Database initialization failed.");
 	}
 	</script>
 	
