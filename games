@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -6,8 +5,11 @@
 	<link rel="shortcut icon" href="./drawing.svg">
 	<link rel="stylesheet" href="normalize.css">
 	<link rel="stylesheet" href="rusty.css">
-</head>
-
+	<style>
+		span1{margin:0; margin-top:1.5%; margin-left:2%; font-size:50px;}
+		span2{animation:h 20s linear infinite; float:right;}
+	</style>
+	</head>
 <body>
 	<div style="position:relative; top:0px; height:40%; width:100%;">
 		<h1><b id="h">g</b><b id="e">a</b><b id="l1">m</b><b id="l2">e</b><b id="o">s</b></h1>
@@ -21,20 +23,13 @@
 	  
     	<hr style="background-color:white;">
 
-	<a href="./rpgs?game=flow"><span style="margin:0; margin-top:1.5%; margin-left:2%; font-size: 50px;"><b>.flow</b></span></a> <a href="http://lolrust.site/game/dotflow/"><span style="size:6;animation:h 20s linear infinite;">official link</span></a>
-	<a href="./rpgs?game=yumenikki"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Yume Nikki</h2></a>
-	<a href="https://store.steampowered.com/app/650700/Yume_Nikki/"><p style="size:6;animation:h 20s linear infinite;">Yume Nikki on steam</p></a>
-	<a href="./rpgs?game=yume2kki"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Yume 2kki</h2></a>
-	<a href="https://yume2kki.fandom.com/wiki/Yume_2kki_Wiki"><p style="size:6;animation:h 20s linear infinite;">english wiki</p></a>
-	<a href="./rpgs?game=off"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">OFF</h2></a>
-	<a href="https://off.fandom.com/wiki/OFF_Wiki"><p style="size:6;animation:h 20s linear infinite;">english wiki</p></a>
-	<a href="./rpgs?game=lcddem"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Lcd Dem</h2></a>
-	<a href="https://lcddem.fandom.com/wiki/Downloads"><p style="size:6;animation:h 20s linear infinite;">english wiki</p></a>
-	<a href="./rpgs?game=yuque"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Yuque</h2></a>
-	<a href="http://lolrust.site/game/dotflow/"><p style="size:6;animation:h 20s linear infinite;">official link</p></a>
-	<a href="./rpgs?game=withers"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">withers</h2></a>
-	<a href="http://lolrust.site/game/dotflow/"><p style="size:6;animation:h 20s linear infinite;">official link</p></a>
-	<a href="./rpgs?game=debris"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Debris Dream</h2></a>
-	<a href="http://lolrust.site/game/dotflow/"><p style="size:6;animation:h 20s linear infinite;">official link</p></a>
+	<a href="./rpgs?game=flow"><span1>.flow</span1></a>				<a href="http://lolrust.site/game/dotflow/"><span2>official link</span2></a>
+	<a href="./rpgs?game=yumenikki"><span1>Yume Nikki</span1></a>			<a href="https://store.steampowered.com/app/650700/Yume_Nikki/"><span2>Yume Nikki on steam</span2></a>
+	<a href="./rpgs?game=yume2kki"><span1>Yume 2kki</span1></a>			<a href="https://yume2kki.fandom.com/wiki/Yume_2kki_Wiki"><span2>english wiki</span2></a>
+	<a href="./rpgs?game=off"><span1>OFF</span1></a>				<a href="https://off.fandom.com/wiki/OFF_Wiki"><span2>english wiki</span2></a>
+	<a href="./rpgs?game=lcddem"><span1>Lcd Dem</span1></a>				<a href="https://lcddem.fandom.com/wiki/Downloads"><span2>english wiki</span2></a>
+	<a href="./rpgs?game=yuque"><span1>Yuque</span1></a>				<a href="http://lolrust.site/game/dotflow/"><span2>official link</span2></a>
+	<a href="./rpgs?game=withers"><span1>withers</span1></a>			<a href="http://lolrust.site/game/dotflow/"><span2>official link</span2></a>
+	<a href="./rpgs?game=debris"><span1>Debris Dream</span1></a>			<a href="http://lolrust.site/game/dotflow/"><span2>official link</span2></a>
 </body>
 </html>
