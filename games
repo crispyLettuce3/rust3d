@@ -21,8 +21,7 @@
 	  
     	<hr style="background-color:white;">
 
-	<a href="./rpgs?game=flow"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">.flow</h2></a> <a href="http://lolrust.site/game/dotflow/"><p style="size:6;animation:h 20s linear infinite;">official link</p></a>
-	
+	<a href="./rpgs?game=flow"><span style="margin:0; margin-top:1.5%; margin-left:2%; font-size: 50px;"><b>.flow</b></span></a> <a href="http://lolrust.site/game/dotflow/"><span style="size:6;animation:h 20s linear infinite;">official link</span></a>
 	<a href="./rpgs?game=yumenikki"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Yume Nikki</h2></a>
 	<a href="https://store.steampowered.com/app/650700/Yume_Nikki/"><p style="size:6;animation:h 20s linear infinite;">Yume Nikki on steam</p></a>
 	<a href="./rpgs?game=yume2kki"><h2 style="margin:0; margin-top:1.5%; margin-left:2%;">Yume 2kki</h2></a>
