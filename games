@@ -23,13 +23,13 @@
 	  
     	<hr style="background-color:white;">
 
-	<a href="./rpgs?game=flow"><span1>.flow</span1></a>				<a href="http://lolrust.site/game/dotflow/"><span2>official link</span2></a>
-	<a href="./rpgs?game=yumenikki"><span1>Yume Nikki</span1></a>			<a href="https://store.steampowered.com/app/650700/Yume_Nikki/"><span2>Yume Nikki on steam</span2></a>
-	<a href="./rpgs?game=yume2kki"><span1>Yume 2kki</span1></a>			<a href="https://yume2kki.fandom.com/wiki/Yume_2kki_Wiki"><span2>english wiki</span2></a>
-	<a href="./rpgs?game=off"><span1>OFF</span1></a>				<a href="https://off.fandom.com/wiki/OFF_Wiki"><span2>english wiki</span2></a>
-	<a href="./rpgs?game=lcddem"><span1>Lcd Dem</span1></a>				<a href="https://lcddem.fandom.com/wiki/Downloads"><span2>english wiki</span2></a>
-	<a href="./rpgs?game=yuque"><span1>Yuque</span1></a>				<a href="http://lolrust.site/game/dotflow/"><span2>official link</span2></a>
-	<a href="./rpgs?game=withers"><span1>withers</span1></a>			<a href="http://lolrust.site/game/dotflow/"><span2>official link</span2></a>
-	<a href="./rpgs?game=debris"><span1>Debris Dream</span1></a>			<a href="http://lolrust.site/game/dotflow/"><span2>official link</span2></a>
+	<a href="./rpgs?game=flow"><span1>.flow</span1></a>				<a href="http://lolrust.site/game/dotflow/"><span2>official</span2></a>
+	<a href="./rpgs?game=yumenikki"><span1>Yume Nikki</span1></a>			<a href="https://store.steampowered.com/app/650700/Yume_Nikki/"><span2>steam</span2></a>
+	<a href="./rpgs?game=yume2kki"><span1>Yume 2kki</span1></a>			<a href="https://yume2kki.fandom.com/wiki/Yume_2kki_Wiki"><span2>wiki</span2></a>
+	<a href="./rpgs?game=off"><span1>OFF</span1></a>				<a href="https://off.fandom.com/wiki/OFF_Wiki"><span2>wiki</span2></a>
+	<a href="./rpgs?game=lcddem"><span1>Lcd Dem</span1></a>				<a href="https://lcddem.fandom.com/wiki/Downloads"><span2>wiki</span2></a>
+	<a href="./rpgs?game=yuque"><span1>Yuque</span1></a>				<a href="https://yumenikkifg.fandom.com/wiki/Yuque"><span2>wiki</span2></a>
+	<a href="./rpgs?game=withers"><span1>withers</span1></a>			<a href="https://yumenikkifg.fandom.com/wiki/Withers"><span2>wiki</span2></a>
+	<a href="./rpgs?game=debris"><span1>Debris Dream</span1></a>			<a href="https://yumenikkifg.fandom.com/wiki/Debris"><span2>wiki</span2></a>
 </body>
 </html>
